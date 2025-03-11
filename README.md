@@ -26,11 +26,10 @@
 
 ---
 # Platforms
-<a href="https://wokwi.com/makers/mrwest"><img src="https://www.luisllamas.es/wp-content/uploads/2022/12/wowki.png" width="200"></a>
+<a href="https://wokwi.com/makers/mrwest"><img src="https://www.luisllamas.es/wp-content/uploads/2022/12/wowki.png" width="100"></a>
 
 ---
 <div align = "center">
 <img height = "150em" src="https://github-readme-stats.vercel.app/api?username=MistoWest&theme=dark&show_icons=true&hide_border=false&count_private=true"/>
  <img height = "150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MistoWest&theme=dark&show_icons=true&hide_border=false&layout=compact" />
 </div>
----
