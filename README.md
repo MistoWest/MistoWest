@@ -37,5 +37,5 @@ N° Processos:
 
 ---
 <div align = "center">
- <img height = "149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=T&theme=dark&show_icons=true&hide_border=false&layout=compact" />
+ <img height = "149em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistowest&theme=dark&show_icons=true&hide_border=false&layout=compact" />
 </div>
