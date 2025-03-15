@@ -5,7 +5,15 @@
 - Name: Wesley H. (MrWest, Misto West, Mister West)
 - 15/08/2005
 
+--
+#### Registros de Software
 
+[Revista IPNI](https://revistas.inpi.gov.br/pdf/Programa_de_computador2827.pdf)
+
+Processos:
+- BR 51 2025 000762-0
+- BR 51 2025 000764-7
+• 
 
 ---
 # Social 
