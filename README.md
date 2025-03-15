@@ -13,16 +13,15 @@ N° Processos:
 - BR 51 2025 000764-7 (IoTMonitor - VerticalFarm)
 
 ---
-# Social 
 <div align="left">
-
+<h3>Social</h3>
 <a href="https://www.youtube.com/@MrWest"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /> </a>
 <a href="https://open.spotify.com/playlist/6zEm43E42itMbHlyjq1aep?si=65a73fced207448e"> <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" /> </a>
 <div align="left">
 
 ---
-# Languages
 <div align="left">
+<h3>Languages</h3>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Rust-FFF?style=for-the-badge&logo=rust&logoColor=black"/>
 <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
@@ -30,8 +29,11 @@ N° Processos:
 </div>
 
 ---
-# Platforms
+
+<div align="left">
+<h3>Platforms</h3>
 <a href="https://wokwi.com/makers/mrwest"><img src="https://www.luisllamas.es/wp-content/uploads/2022/12/wowki.png" width="100"></a>
+<div>
 
 ---
 <div align = "center">
